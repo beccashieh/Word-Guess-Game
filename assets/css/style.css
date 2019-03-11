@@ -1,0 +1,15 @@
+body {
+    background-image: url("assets/images/zooAnimals.png");
+    background-color: #cccccc;
+}
+
+h1 {
+    text-align: center;
+}
+
+.col-lg-6 {
+    border: 2px dotted black;
+    float: left;
+    margin: 20px 5px 0px 5px;
+    padding: 10px;
+}
